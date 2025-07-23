@@ -9,7 +9,22 @@ Demo 开发介绍：
 
 ## 开发环境：
 - python = 3.13.5
-- pyside6 = 6.9.1
+
+- colorama = 0.4.6
+- lxml = 6.0.0
+- numpy = 2.2.6
+- opencv-python = 4.12.0.88
+- pillow = 11.3.0
+- pip = 25.1
+- psutil = 7.0.0
+- PySide6 = 6.9.1
+- PySide6_Addons = 6.9.1
+- PySide6_Essentials = 6.9.1
+- PyYAML = 6.0.2
+- setuptools = 78.1.1
+- shiboken6 = 6.9.1
+- tqdm = 4.67.1
+- wheel = 0.45.1
 
 ## 训练环境：
 - certifi = 2025.7.14
