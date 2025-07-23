@@ -2,7 +2,7 @@
 # -*- coding: UTF-8 -*-
 
 '''
-@Project ：yolo_det_source_code 
+@Project ：yolo_source_code
 @File    ：task_config.py
 @Author  ：fengzhengxiong
 @Date    ：2025/7/17 11:22 
