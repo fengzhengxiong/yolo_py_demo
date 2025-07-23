@@ -2,7 +2,7 @@
 # -*- coding: UTF-8 -*-
 
 '''
-@Project ：yolo_det_source_code 
+@Project ：yolo_source_code
 @File    ：conversion_worker.py
 @Author  ：fengzhengxiong
 @Date    ：2025/7/17 10:10 
