@@ -27,6 +27,8 @@ Demo 开发介绍：
 - wheel = 0.45.1
 
 ## 训练环境：
+- python = 3.13.5
+
 - certifi = 2025.7.14
 - charset-normalizer = 3.4.2
 - colorama = 0.4.6
