@@ -141,7 +141,7 @@ class LabelmeConverter:
 # ==========================================================
 #  split_dataset 函数保持不变，它已经是正确的
 # ==========================================================
-def split_dataset(dataset_path: str, classes: List[str], train_ratio: float = 0.8) -> str:
+def split_dataset(dataset_path: str, classes: List[str], train_ratio: float = 0.9) -> str:
     dataset_path = Path(dataset_path)
     image_dir = dataset_path / 'images'
     label_dir = dataset_path / 'labels'
