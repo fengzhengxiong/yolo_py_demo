@@ -10,11 +10,6 @@ Demo 开发介绍：
 ## 开发环境：
 - python = 3.13.5
 
-- colorama = 0.4.6
-- lxml = 6.0.0
-- numpy = 2.2.6
-- opencv-python = 4.12.0.88
-- pillow = 11.3.0
 - pip = 25.1
 - psutil = 7.0.0
 - PySide6 = 6.9.1
@@ -23,26 +18,25 @@ Demo 开发介绍：
 - PyYAML = 6.0.2
 - setuptools = 78.1.1
 - shiboken6 = 6.9.1
-- tqdm = 4.67.1
 - wheel = 0.45.1
 
 ## 训练环境：
-- python = 3.13.5
+- python = 3.12.11
 
 - certifi = 2025.7.14
 - charset-normalizer = 3.4.2
 - colorama = 0.4.6
-- contourpy = 1.3.2
+- contourpy = 1.3.3
 - cycler = 0.12.1
 - dill = 0.4.0
 - filelock = 3.18.0
-- fonttools = 4.58.5
-- fsspec = 2025.5.1
+- fonttools = 4.59.0
+- fsspec = 2025.7.0
 - idna = 3.10
 - Jinja2 = 3.1.6
 - kiwisolver = 1.4.8
 - MarkupSafe = 3.0.2
-- matplotlib = 3.10.3
+- matplotlib = 3.10.5
 - mpmath = 1.3.0
 - networkx = 3.5
 - numpy = 2.2.6
@@ -60,7 +54,7 @@ Demo 开发介绍：
 - pytz = 2025.2
 - PyYAML = 6.0.2
 - requests = 2.32.4
-- scipy = 1.16.0
+- scipy = 1.16.1
 - setuptools = 78.1.1
 - six = 1.17.0
 - sympy = 1.13.1
@@ -70,7 +64,7 @@ Demo 开发介绍：
 - tqdm = 4.67.1
 - typing_extensions = 4.14.1
 - tzdata = 2025.2
-- ultralytics = 8.3.166
+- ultralytics = 8.3.171
 - ultralytics-thop = 2.0.14
 - urllib3 = 2.5.0
 - wheel = 0.45.1
